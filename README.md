@@ -11,7 +11,7 @@ Database implemented using Mysql including ERD and Relational Schema for the hos
 
 ## Name of team members:
 1) Sabah Ahmed Elsayed Ali (IT)
-2) Reem Elsayed Ghareeb Elhatty (CS)
+2) Reem Elsayed Ghareeb (CS)
 3) Basmala Abuzied Ahmed Abd El-salam (CS) 
 4) Omnia Gamal El-nagar (IS)
 5) Tasbeeh Ismail Ragab (CS)
