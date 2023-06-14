@@ -6,6 +6,7 @@ Database with Mysql for the hospital to help all healthcare employees keep recor
 
 
 ENTITY RELATIONSHIP DIAGRAM:
+
 ![ENTITY RELATIONSHIP DIAGRAM](https://github.com/tasbeehismail/Hospital-Database/blob/28485d960328542c87fc50abdc1aab10432e1571/ERD.png)
 
 Name of team members:
